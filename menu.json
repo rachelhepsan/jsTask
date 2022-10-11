@@ -1,0 +1,118 @@
+[
+    {
+        "mainMenu":"Home",
+        "subMenu":"Overview",
+        "link":"https://www.google.co.in/"
+    },
+    {
+        "mainMenu":"Home",
+        "subMenu":"Service We Offer",
+        "link":"https://www.google.co.in/"
+    },
+    {
+        "mainMenu":"Home",
+        "subMenu":"About Us",
+        "link":"https://www.google.co.in/"
+    },
+    {
+        "mainMenu":"Home",
+        "subMenu":"How it Works",
+        "link":"https://www.google.co.in/"
+    },
+    {
+        "mainMenu":"Home",
+        "subMenu":"Our Team",
+        "link":"https://www.google.co.in/"
+    },
+    {
+        "mainMenu":"Home",
+        "subMenu":"What They Saying",
+        "link":"https://www.google.co.in/"
+    },
+    {
+        "mainMenu":"About",
+        "subMenu":"About QBurst",
+        "link":"https://www.google.co.in/"
+    },
+    {
+        "mainMenu":"About",
+        "subMenu":"Leadership Team",
+        "link":"https://www.google.co.in/"
+    },
+    {
+        "mainMenu":"About",
+        "subMenu":"Clients",
+        "link":"https://www.google.co.in/"
+    },
+    {
+        "mainMenu":"Home",
+        "subMenu":"Partners",
+        "link":"https://www.google.co.in/"
+    },
+    {
+        "mainMenu":"About",
+        "subMenu":"Corporate Responsibility",
+        "link":"https://www.google.co.in/"
+    },
+    {
+        "mainMenu":"About",
+        "subMenu":"News",
+        "link":"https://www.google.co.in/"
+    },
+    {
+        "mainMenu":"About",
+        "subMenu":"Privacy Policy",
+        "link":"https://www.google.co.in/"
+    },
+    {
+        "mainMenu":"About",
+        "subMenu":"Pay Your Invoice",
+        "link":"https://www.google.co.in/"
+    },
+    {
+        "mainMenu":"Service",
+        "subMenu":"Overview",
+        "link":"https://www.google.co.in/"
+    },{
+        "mainMenu":"Service",
+        "subMenu":"Architecture",
+        "link":"https://www.google.co.in/"
+    },
+    {
+        "mainMenu":"Service",
+        "subMenu":"Design",
+        "link":"https://www.google.co.in/"
+    },
+    {
+        "mainMenu":"Service",
+        "subMenu":"Development",
+        "link":"https://www.google.co.in/"
+    },
+    {
+        "mainMenu":"Service",
+        "subMenu":"Testing",
+        "link":"https://www.google.co.in/"
+    },
+    {
+        "mainMenu":"Service",
+        "subMenu":"Tools & Lab",
+        "link":"https://www.google.co.in/"
+    },
+    {
+        "mainMenu":"Service",
+        "subMenu":"Delivery Model",
+        "link":"https://www.google.co.in/"
+    },
+    {
+        "mainMenu":"Our Locations",
+        "link":"https://www.google.co.in/"
+    },
+    {
+        "mainMenu":"Contact",
+        "link":"https://www.google.co.in/"
+    },
+    {
+        "mainMenu":"FAQ",
+        "link":"https://www.google.co.in/"
+    }
+]
